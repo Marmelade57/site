@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="79.917198mm"
+   height="75.690826mm"
+   viewBox="0 0 79.917198 75.690826"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-52.253556,-89.522636)">
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.2;paint-order:fill markers stroke"
+       id="rect1"
+       width="79.917206"
+       height="75.690819"
+       x="52.253555"
+       y="89.522636" />
+    <ellipse
+       style="fill:#dc143c;stroke:none;stroke-width:0.2;paint-order:fill markers stroke"
+       id="path2"
+       cx="92.212158"
+       cy="117.95472"
+       rx="7.6843467"
+       ry="12.679172" />
+    <ellipse
+       style="fill:#dc143c;stroke:none;stroke-width:0.2;paint-order:fill markers stroke"
+       id="path2-8"
+       cx="154.59789"
+       cy="-8.7751274"
+       rx="7.6843467"
+       ry="12.679172"
+       transform="rotate(53.467052)" />
+    <ellipse
+       style="fill:#dc143c;stroke:none;stroke-width:0.2;paint-order:fill markers stroke"
+       id="path2-8-6"
+       cx="37.074589"
+       cy="-141.0575"
+       rx="7.6843467"
+       ry="12.679172"
+       transform="rotate(130.36453)" />
+    <ellipse
+       style="fill:#dc143c;stroke:none;stroke-width:0.2;paint-order:fill markers stroke"
+       id="path2-8-1"
+       cx="92.929008"
+       cy="-131.36719"
+       rx="7.6843467"
+       ry="12.679172"
+       transform="rotate(106.21068)" />
+    <ellipse
+       style="fill:#dc143c;stroke:none;stroke-width:0.2;paint-order:fill markers stroke"
+       id="path2-8-7"
+       cx="54.150188"
+       cy="-158.60831"
+       rx="7.6843467"
+       ry="12.679172"
+       transform="rotate(125.3635)" />
+    <ellipse
+       style="fill:#dc143c;stroke:none;stroke-width:0.2;paint-order:fill markers stroke"
+       id="path2-8-1-6"
+       cx="-87.280823"
+       cy="-139.73351"
+       rx="7.6843467"
+       ry="12.679172"
+       transform="rotate(178.10713)" />
+    <ellipse
+       style="fill:#dc143c;stroke:none;stroke-width:0.2;paint-order:fill markers stroke"
+       id="path2-8-7-2"
+       cx="-155.2619"
+       cy="-36.629257"
+       rx="7.6843467"
+       ry="12.679172"
+       transform="rotate(-135.04065)" />
+    <ellipse
+       style="fill:#dc143c;stroke:none;stroke-width:0.2;paint-order:fill markers stroke"
+       id="path2-8-1-6-1"
+       cx="-117.06182"
+       cy="98.303101"
+       rx="7.6843467"
+       ry="12.679172"
+       transform="rotate(-82.297025)" />
+    <circle
+       style="fill:#ffd700;stroke:none;stroke-width:0.202278;paint-order:fill markers stroke"
+       id="path1"
+       cx="92.212158"
+       cy="127.36804"
+       r="9.6054335" />
+  </g>
+</svg>

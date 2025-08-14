@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./media/style/commun.css">
+    <link rel="stylesheet" href="./media/style/ordinateur.css">
+    <link rel="stylesheet" href="./media/style/tablette.css">
+    <link rel="stylesheet" href="./media/style/telephone.css">
+    <title>Modèle de page</title>
+</head>
+
+<body>
+    <aside id="menu">
+        <figure>
+            <label class="toggle" for="checkbox">
+                <div id="bar1" class="bars"></div>
+                <div id="bar2" class="bars"></div>
+                <div id="bar3" class="bars"></div>
+            </label>
+        </figure>
+        <ul></ul>
+    </aside>
+    <main>
+        <nav id="sousmenu">
+            <ul></ul>
+        </nav>
+        <section>
+            <h1 id="t-main">Titre de la page</h1>
+            <article id="art-1">
+                <h1 id="t-1">Titre 1</h1>
+                <p>Texte 1</p>
+            </article>
+            <article id="art-2">
+                <h1 id="t-2">Titre 2</h1>
+                <div id="image-texte">
+                    <figure>
+                        <img src="https://fastly.picsum.photos/id/5/536/354.jpg?hmac=cC_NPzxEpG9OAz7PptWtOChhcmYRXuxiV40qrFpL-uE" alt="image-2" style="width: 250px; object-fit: contain;">
+                    </figure>
+                    <p>Texte 2</p>
+                </div>
+            </article>
+        </section>
+    </main>
+    <script src="../controller/gestion-menu.js"></script>
+    <script type="module" src="../controller/items_menu.js"></script>
+    <script src="../controller/items_sous_menu.js"></script>
+    <script type="module" src="../controller/couleur_menu.js"></script>
+</body>
+
+</html>

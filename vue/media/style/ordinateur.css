@@ -1,0 +1,9 @@
+aside {
+  position:fixed;
+  margin: 0;
+  padding: 0;
+  width: 25svw;
+  height: 100svh;
+  background-color: rgb(238, 236, 231);
+  transition: 1s ease-in-out;
+}

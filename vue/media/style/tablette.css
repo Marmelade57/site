@@ -1,0 +1,15 @@
+@media (width <= 900px) {
+  aside {
+    position: fixed;
+    margin: 0;
+    padding: 0;
+    width: 100svw;
+    height: 100svh;
+    background-color: rgb(238, 236, 231);
+    transition: 1s ease-in-out;
+  }
+
+  #image-texte {
+    display: grid;
+  }
+}
