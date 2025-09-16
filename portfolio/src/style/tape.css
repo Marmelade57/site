@@ -1,0 +1,32 @@
+.tape {
+  width: auto;
+  margin: 20px auto;
+  position: relative;
+  padding: 2px;
+  background: #fff;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+.tape img {
+  width: 100%;
+  display: block;
+}
+
+.tape:before {
+  display: block;
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  width: 100px;
+  height: 20px;
+  margin-left: -50px;
+  background: rgba(190, 180, 173, 0.5)/*  rgba(255, 255, 255, 0.6) */;
+}
+
+@media (width <= 48rem) {
+  .tape {
+    width: fit-content;
+    margin: auto;
+  }
+}
